@@ -37,8 +37,8 @@ A simple **Library Management System** built with **Python** and **MySQL** that 
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
-   cd library-management-system
+   git clone https://github.com/AitijhyaCoded/Library-Management-System.git
+   cd Library-Management-System
    ```
 
 2. **Create & activate a virtual environment (optional but recommended)**  
